@@ -1,8 +1,8 @@
 # NuclearSpillWebGL
 
-Nuclear Spill is a WebGL game made with using Unity3D. It is a Adventure Genre game.
+Nuclear Spill is a WebGL game made with using Unity3D. It is a Adventure Genre game that
 
-With the help of two 3D Modelers, and one other Software Developer.
+was developed with the help of two 3D Modelers, and one other Software Developer.
 
 This current build is still on it's alpha test phase.
 
